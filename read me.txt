@@ -1,0 +1,6 @@
+Hello friends
+In this digital world we are trying to digitalize 
+the way to tracking the medical history of the patients in order 
+to provide an immediate help by getting details of patient’s 
+medical issues stored in the database to get the best out of the time.  
+Technology Stack: Python, SQL, Tkinter 
